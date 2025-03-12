@@ -1,1 +1,1 @@
-![Alt text](Profile-Card-UI/blob/main/profile-card-ui.png)
+![Alt text](https://raw.githubusercontent.com/BELLILMohamedNadir/Profile-Card-UI/main/profile-card-ui.png)
